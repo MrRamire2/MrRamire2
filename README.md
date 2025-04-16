@@ -1,6 +1,6 @@
 👋 ¡Hola! Soy @MrRamire2  
 💻 Desarrollador web y diseñador — PHP, HTML, CSS, JS, jQuery, MariaDB  
-🎓 Actualmente curso una FP en diseño  
+🎓 Tengo un **Técnico en Diseño Gráfico** y una **FP en Desarrollo de Aplicaciones Web (DAW)**  
 🎨 Apasionado por el minimalismo y los detalles bien cuidados  
 🌱 Siempre aprendiendo nuevas herramientas y mejores prácticas  
 🤝 Abierto a colaborar en proyectos web que valoren la simplicidad y la funcionalidad  
