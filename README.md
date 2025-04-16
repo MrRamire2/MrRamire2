@@ -4,7 +4,7 @@
 🎨 Apasionado por el minimalismo y los detalles bien cuidados  
 🌱 Siempre aprendiendo nuevas herramientas y mejores prácticas  
 🤝 Abierto a colaborar en proyectos web que valoren la simplicidad y la funcionalidad  
-📫 Puedes contactarme en: [tu.email@example.com] o por mensaje en GitHub  
+📫 Puedes contactarme en: j.ramirezap@gmail.com o por mensaje en GitHub  
 ⚡ Fun fact: Mi pantalla del ordenador es negro absoluto — la creatividad se la dejo a la web 😄  
 
 ---
