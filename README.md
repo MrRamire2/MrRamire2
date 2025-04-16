@@ -24,8 +24,10 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
+| 🍊 **Distribuidora de Fruta** | Página web corporativa que incluye un catálogo de productos, editor de blog y gestor de productos, todo gestionado a través de una base de datos MariaDB. | PHP, HTML, CSS, JS, MariaDB |
 | 🖼️ **Web para Museo** | Página web centrada en el diseño visual, con integración de Google Firestore como base de datos para gestionar el contenido dinámico (noticias, eventos, etc.). Enfocada en un diseño frontend atractivo y fácil de usar. | Tailwind CSS, JS, jQuery, Google Firestore |
 | 🏨 **Hotel Management System** | Sistema de gestión para un hotel: reservas, habitaciones, administración interna. Backend funcional con PHP y base de datos MariaDB. | PHP, CSS, JS, MariaDB |
-| 🍊 **Distribuidora de Fruta** | Página web corporativa que incluye un catálogo de productos, editor de blog y gestor de productos, todo gestionado a través de una base de datos MariaDB. | PHP, HTML, CSS, JS, MariaDB |
+| 🎮 **Ahorcado en JavaScript** | Juego clásico del ahorcado con diseño visual atractivo y sistema de puntuación detallado. Cada partida tiene palabras aleatorias y feedback interactivo para una mejor experiencia. | HTML, CSS, JS |
+
 
 > *Pronto iré subiendo más proyectos a este perfil. Stay tuned...*
